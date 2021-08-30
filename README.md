@@ -12,6 +12,7 @@ Este é meu primeiro projeto desenvolvido em Python.
 O foco era criar um conversor de temperatura, na qual eu poderia testar minha lógica e raciocínio.
 
 ### Como rodar ⚙️
-- Baixe esses arquivos.
-- Abra sua IDE de preferência.
-- Rode o arquivo chamado pyconverter.py.
+- Baixe esses arquivos
+- Abra sua IDE de preferência
+- Abra a pasta PyConverter na sua IDE
+- Rode o arquivo pyconverter.py
