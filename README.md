@@ -11,6 +11,8 @@ O PyConverter é um conversor de temperatura, que converte de graus Celsius para
 Este é meu primeiro projeto desenvolvido em Python.
 O foco era criar um conversor de temperatura, na qual eu poderia testar minha lógica e raciocínio.
 
+##
+
 ### Como rodar ⚙️
 - Baixe esses arquivos
 - Abra sua IDE de preferência
